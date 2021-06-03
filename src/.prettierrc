@@ -1,0 +1,11 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "space-before-function-paren": ["error", {
+    "anonymous": "always",
+    "named": "never",
+    "asyncArrow": "always"
+}]
+}
