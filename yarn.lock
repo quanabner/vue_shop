@@ -8516,6 +8516,13 @@ vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
+vue-table-with-tree-grid@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.npm.taobao.org/vue-table-with-tree-grid/download/vue-table-with-tree-grid-0.2.4.tgz#b60b22810ab861bdb669afb3d6f0079a4cee52a4"
+  integrity sha1-tgsigQq4Yb22aa+z1vAHmkzuUqQ=
+  dependencies:
+    vue "^2.4.3"
+
 vue-template-compiler@^2.6.11:
   version "2.6.12"
   resolved "https://registry.npm.taobao.org/vue-template-compiler/download/vue-template-compiler-2.6.12.tgz?cache=0&sync_timestamp=1597927338574&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-template-compiler%2Fdownload%2Fvue-template-compiler-2.6.12.tgz#947ed7196744c8a5285ebe1233fe960437fcc57e"
@@ -8528,6 +8535,11 @@ vue-template-es2015-compiler@^1.9.0:
   version "1.9.1"
   resolved "https://registry.nlark.com/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
+
+vue@^2.4.3:
+  version "2.6.13"
+  resolved "https://registry.nlark.com/vue/download/vue-2.6.13.tgz?cache=0&sync_timestamp=1622665653002&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvue%2Fdownload%2Fvue-2.6.13.tgz#94b2c1b31fddf1dfcc34f28ec848ba8f01ea4c5b"
+  integrity sha1-lLLBsx/d8d/MNPKOyEi6jwHqTFs=
 
 vue@^2.6.11:
   version "2.6.12"
